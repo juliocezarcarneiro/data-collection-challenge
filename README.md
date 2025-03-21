@@ -1,9 +1,11 @@
-# data-collection-challenge
+# data-collection-challenge UofT and edX Bootcamp
 
 ![alt text](Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png)
 
 ## Project Overview
-This project involves web scraping and data analysus of Mars. The goal is to extract and analyze information from Mars news articles and weather data. The project is divided into two main deliverables: Scraping Titles and Preview Text from Mars News Articles and Scraping and Analyzing Mars Weather Data.
+This project involves web scraping and data analysus of Mars. The goal is to extract and analyze information from Mars news articles and weather data. The project is divided into two main deliverables: 
+* Scraping Titles and Preview Text from Mars News Articles.
+* Scraping and Analyzing Mars Weather Data.
 
 ## Table of Contents
 1. Project Overview
@@ -14,16 +16,16 @@ This project involves web scraping and data analysus of Mars. The goal is to ext
 7. References
 
 ## Technologies Used
-* Python
-* Beatiful Soup
-* Splinter
-* Pandas
-* Matplotlib
-* Jupyter Notebook
+* Python: scripting:
+* Beatiful Soup: web scraping.
+* Splinter: web pages interaction.
+* Pandas: manipulation and data analysis.
+* Matplotlib: visualizations.
+* Jupyter Notebook: environment for coding.
 
 ## Setup Instructions
 
-* Clone this repository: git clone https://github.com/juliocezarcarneiro/data-collection-challenge.git
+* Clone this repository: git clone https://github.com/YOUR-USERNAME/data-collection-challenge.git
 
 * Navigate to the project directory: cd data-collection-challenge
 
@@ -55,3 +57,15 @@ The analysis focuses on:
 - **part_2_mars_weather.ipynb**
 
 ## References
+
+* Beautiful Soup Documentation: Official documentation for Beautiful Soup, used for parsing HTML and XML in web scraping.
+
+* Splinter Documentation: Official documentation for Splinter, used for browser automation and interacting with web pages.
+
+* Matplotlib Documentation: Official documentation for Matplotlib, used for creating visualizations and plots.
+
+* Pandas Documentation: Official documentation for Pandas, used for data manipulation and analysis.
+
+* ChatGPT: Used for assistance with code debugging, documentation, and project guidance.
+
+
